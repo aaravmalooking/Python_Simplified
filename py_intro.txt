@@ -1,0 +1,28 @@
+Welcome to learning Python!
+This will be your chance to learn python the easy way.
+Spoiler: Nothing is Easy, give it your sweat understand it, and you will grow at the end, practice and think like a programmer; be a problem solver
+
+
+Python Introduction:
+    why learn python?
+    Well, Python like no other language, is easy it is like you're reading simple plain english just need to know some keywords.
+    Python was created by Guido van Rossum in 1991
+    Python is used for:
+        web development (server-side),
+        software development,
+        mathematics,
+        system scripting
+    It is also extremely popular for tech jobs.
+    Oh, and yeah of course it is the language you will want to learn if you want to get into Artificial Intelligence.
+    Plus, the language is simplified, and is easy for beginners. As I told earlier, things can be achieved with minimum lines of code.
+
+
+
+So, ready to learn python?
+
+First we'll need to install Python, and then an IDE.
+So visit https://www.python.org/ and then hover on downloads, then it will detect your operating system and then click download there...
+after that, set it up according to your preferences.
+
+After that we need an IDE (Integrated Development Environment) which will help us write code blazingly fast ad contains features we will need later.
+
