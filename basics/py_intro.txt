@@ -19,10 +19,15 @@ Python Introduction:
 
 
 So, ready to learn python?
-
-First we'll need to install Python, and then an IDE.
-So visit https://www.python.org/ and then hover on downloads, then it will detect your operating system and then click download there...
+many PCs and Macs come with pre-installed Python.
+to ensure that it is installed open up terminal/powershell and type "python --version"
+if you get something like:
+Python 3.12.6, then congrats python is installed.
+but if you get an error, then:
+visit https://www.python.org/ and then hover on downloads, then it will detect your operating system and then click download there...
 after that, set it up according to your preferences.
+then try again in the terminal for the version (python --version) and if you get the version congrats.
+if you have any errors, please dm me on instagram or mail me (instagram username --> aaravmalooking; gmail --> aaravmaloov@gmail.com)
 
 After that we need an IDE (Integrated Development Environment) which will help us write code blazingly fast ad contains features we will need later.
 For ous programmers we have got many options.
