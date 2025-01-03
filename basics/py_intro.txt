@@ -1,0 +1,45 @@
+Welcome to learning Python!
+This will be your chance to learn python the easy way.
+Spoiler: Nothing is Easy, give it your sweat understand it, and you will grow at the end, practice and think like a programmer; be a problem solver
+
+
+Python Introduction:
+    why learn python?
+    Well, Python like no other language, is easy it is like you're reading simple plain english just need to know some keywords.
+    Python was created by Guido van Rossum in 1991
+    Python is used for:
+        web development (server-side),
+        software development,
+        mathematics,
+        system scripting
+    It is also extremely popular for tech jobs.
+    Oh, and yeah of course it is the language you will want to learn if you want to get into Artificial Intelligence.
+    Plus, the language is simplified, and is easy for beginners. As I told earlier, things can be achieved with minimum lines of code.
+
+
+
+So, ready to learn python?
+many PCs and Macs come with pre-installed Python.
+to ensure that it is installed open up terminal/powershell and type "python --version"
+if you get something like:
+Python 3.12.6, then congrats python is installed.
+but if you get an error, then:
+visit https://www.python.org/ and then hover on downloads, then it will detect your operating system and then click download there...
+after that, set it up according to your preferences.
+then try again in the terminal for the version (python --version) and if you get the version congrats.
+if you have any errors, please dm me on instagram or mail me (instagram username --> aaravmalooking; gmail --> aaravmaloov@gmail.com)
+
+After that we need an IDE (Integrated Development Environment) which will help us write code blazingly fast ad contains features we will need later.
+For ous programmers we have got many options.
+I would recommend two IDEs, the choice depends on you now.
+Pycharm Community Edition
+    Install Pycharm CE for more advanced features, I once used VS code, but then I switched to Jetbrains IDEs.
+    If you have a good computer just install pycharm CE and don't worry about it right now.
+Visual Studio Code:
+    This option is also good, as vs code is really lightweight.
+    If you have a low-end computer install this.
+    It supports many extensions, so you can even run other languages.
+    but if you install jetbrains IDEs you might need to install separate IDEs for languages.
+Now the choice depends on you.
+After you've done this, please move onto the .first_program.py file, for learning Python.
+Remember practice and practice, good luck!
