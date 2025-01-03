@@ -35,3 +35,37 @@ print("Hello, \"Aarav\"")
 # \v --> vertical tab
 # \ooo --> octal value
 # \xhh --> hex value
+
+# you can also declare variables in one line multiple variables.
+a, b, h = 3,7,8
+# dealers a, b, h, with values 3, 7, 8 respectively,
+# you can even declare variables with the same value.
+u=o=q=1
+# declares u, o, q, with value 1
+# if you want to declare a variable first and then assign the value later, you can do that like this.
+# here our none type comes in.
+x = None
+# now we will declare x on the next line.
+x = 63
+# seems good, right?
+
+# inputs:
+# you see till now you were just declaring things by yourself and not asking anything to the user,
+# but this would not be the case in real production environments.
+# that's where the input function comes in, it is used to take input from the user who is running the program.
+# input function takes the input from a user and stores it as a value of a variable.
+username = input("Enter Your Name --> ") # always add a space here
+# as then the user typing will be stick to the last word of the prompt
+# (prompt is when you tell the user what they should type in the input field)
+
+
+# also sometimes you would want to tell the interpreter that to treat the variable to store as an int.
+# casting can do this.
+age = int(input("Enter Your Age --> "))
+# now just like any other variable, you can print its value
+print(age)
+
+# practice time!
+
+
+
