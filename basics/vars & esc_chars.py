@@ -66,6 +66,8 @@ age = int(input("Enter Your Age --> "))
 print(age)
 
 # practice time!
+# navigate to practice/vars & esc_chars (prac.).py and follow the tutorial from there onwards.
+
 
 
 
