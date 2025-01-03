@@ -55,6 +55,7 @@ x = 63
 # that's where the input function comes in, it is used to take input from the user who is running the program.
 # input function takes the input from a user and stores it as a value of a variable.
 username = input("Enter Your Name --> ") # always add a space here
+print("Hello ", username)
 # as then the user typing will be stick to the last word of the prompt
 # (prompt is when you tell the user what they should type in the input field)
 
