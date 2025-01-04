@@ -1,5 +1,14 @@
-![Python Simplified Logo]
-The most simplified python course ever!
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aaravmalooking/Python_Simplified/refs/heads/main/python_logo.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aaravmalooking/Python_Simplified/refs/heads/main/python_logo.svg">
+    <img alt="Logo"
+         src="https://raw.githubusercontent.com/aaravmalooking/Python_Simplified/refs/heads/main/python_logo.svg"
+         width="50%">
+  </picture>
+</div>
+
+
 ---
 
 ## Why Learn Python This way?
@@ -14,11 +23,13 @@ The most simplified python course ever!
 ---
 
 ## Quick Start
-Fork the [repository] to your account, and clone to your computer, start learning and experimenting with Python!
-[Repository]: https://github.com/aaravmalooking/Python_Simplified
+Fork the [repository](https://github.com/aaravmalooking/Python_Simplified) to your account, and clone to your computer, start learning and experimenting with Python!
 
 
-## Contributing
+---
 
-See [CONTRIBUTING.md](CONTRIBUTING.md).
+## <center> Contributing
+To contribute to this project (or any other projects),
+contact aaravmaloov@gmail.com, or direct message instagram @aaravmalooking.
+
 
