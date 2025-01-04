@@ -1,5 +1,4 @@
-![python_logo.svg]
-
+![Python Simplified Logo]
 The most simplified python course ever!
 ---
 
@@ -11,12 +10,12 @@ The most simplified python course ever!
 
 - **Productivity:** The course has all the files a beginner would need to get started to code, and the project structure is incredibility simple, contains projects, basics, practice.
 
-- **Depths of Python:** The course has been designed to cover depths of Python, from very basics to the most advanced functions and programming in Python.
+- **Depths of Python:** The course has been designed to cover depths of Python, from the very basics to the most advanced functions and programming in Python.
 ---
 
 ## Quick Start
 Fork the [repository] to your account, and clone to your computer, start learning and experimenting with Python!
-[repository]: https://github.com/aaravmalooking/Python_Simplified
+[Repository]: https://github.com/aaravmalooking/Python_Simplified
 
 
 ## Contributing
