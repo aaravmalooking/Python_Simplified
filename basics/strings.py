@@ -30,3 +30,14 @@ print(len(taxes))
 
 print("lowering" not in taxes)
 # there is also many other functions in strings you can use.
+
+# there is slicing, which is used to get parts of a string.
+# so using that logic, you can index like this:
+
+print(name[2:]) # skip aa and get rav
+print(name[2:4]) # will print ra
+
+# if you want to get the parts from behind, use negative indexing...
+# negative indexing is when you want to get the last of the string.
+
+print(name[-5:-1])
