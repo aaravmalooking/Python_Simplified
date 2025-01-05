@@ -41,3 +41,5 @@ print(name[2:4]) # will print ra
 # negative indexing is when you want to get the last of the string.
 
 print(name[-5:-1])
+
+
