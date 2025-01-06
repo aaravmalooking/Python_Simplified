@@ -11,9 +11,9 @@
 
 ---
 
-## Why Learn Python This way?
+## <center> Why Learn Python This way?
 
-- **Readability:** The course has been integrated in a way that you can read it right from the IDE. 
+**Readability:** The course has been integrated in a way that you can read it right from the IDE. 
 
 - **Python Features:** Python offers a great way to learn code. It is easy to read, and easy to implement.
 
@@ -21,8 +21,13 @@
 
 - **Depths of Python:** The course has been designed to cover depths of Python, from the very basics to the most advanced functions and programming in Python.
 ---
+## <center> Some Tips
+- **Practice:** Nothing is perfect without practice, this applies to programming languages regardless. 
+- **Projects:** Projects are a great way to learn programming, as they teach a lot of things while increasing the programmer's experience.
 
-## Quick Start
+---
+
+## <center> Quick Start
 Fork the [repository](https://github.com/aaravmalooking/Python_Simplified) to your account, and clone to your computer, start learning and experimenting with Python!
 
 
@@ -31,5 +36,7 @@ Fork the [repository](https://github.com/aaravmalooking/Python_Simplified) to yo
 ## <center> Contributing
 To contribute to this project (or any other projects),
 contact aaravmaloov@gmail.com, or direct message instagram @aaravmalooking.
+
+
 
 
